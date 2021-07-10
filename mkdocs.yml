@@ -1,14 +1,6 @@
 site_name: Documentation
 nav:
 - Getting Started: getting_started.md
-#   - Concept: 1_getting_started/concept.md
-#   - Setup: 1_getting_started/setup.md
-# - Tutorial: tutorial.md
-#   - Setup: 2_tutorial/setup.md
-#   - Driver: 2_tutorial/driver.md
-#   - Controller: 2_tutorial/controller.md
-#   - Simulator: 2_tutorial/simulator.md
-# - Contact: contact.md
-#   - Contribution: 3_contact/contribution.md
-#   - Issue Report: 3_contact/issue_report.md
+- Tutorial: tutorial.md
+- Contact: contact.md
 theme: readthedocs

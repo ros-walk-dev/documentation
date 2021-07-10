@@ -1,7 +1,5 @@
 # Getting Started
 
+## Concept
 
-# Getting Started2
-
-
-# Getting Started3
+## Setup
